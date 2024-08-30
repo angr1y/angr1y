@@ -10,6 +10,10 @@
 ## Мой стек:
 Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Catboost, XGBoost, SQL
 
+## Ссылка на мой LeetCode
+[![LeetCode](https://img.shields.io/badge/-LeetCode-090909?style=for-the-badge&logo=LeetCode&logocolor=27A0D9)](https://leetcode.com/u/angriy/)
+
+
 
 <!--
 **angr1y/angr1y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
