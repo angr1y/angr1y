@@ -1,10 +1,15 @@
 ## Hi there 👋
 
-Меня зовут Грицай Антон.
+Меня зовут Грицай Антон
+Я начинающий Data Scientist / ML специалист
 
 ## Connect with me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logocolor=27A0D9)](https://t.me/angriyy)
 
+## Мой стек:
+Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Catboost, XGBoost, SQL
+
+В данный момент нахожусь в поиске стажировки для улучшения своих профессиональных навыков
 
 <!--
 **angr1y/angr1y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
