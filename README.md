@@ -13,6 +13,9 @@ Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Catboost, XGBoost, SQL
 ## Ссылка на мой LeetCode
 [![LeetCode](https://img.shields.io/badge/-LeetCode-090909?style=for-the-badge&logo=LeetCode&logocolor=27A0D9)](https://leetcode.com/u/angriy/)
 
+## Ссылка на Stepik
+https://stepik.org/users/638950460/profile
+
 
 
 <!--
