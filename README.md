@@ -2,7 +2,7 @@
 
 Меня зовут Грицай Антон
 
-Я начинающий Data Scientist / ML специалист, в данный момент нахожусь в поиске стажировки для улучшения своих профессиональных навыков
+Я Data Scientist / ML специалист.
 
 ## Connect with me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logocolor=27A0D9)](https://t.me/angriyy)
